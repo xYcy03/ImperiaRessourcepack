@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/imperia.png",
+      "ascent": 30,
+      "height": 32,
+      "chars": ["\\uE000"]
+    }
+  ]
+}
