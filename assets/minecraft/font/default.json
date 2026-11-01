@@ -2,11 +2,11 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:font/imperia.png",
+      "file": "minecraft:font/banner.png",
       "ascent": 30,
       "height": 32,
       "chars": [
-        "\ue000"
+        "\ue000\ue00f\ue010"
       ]
     },
     {
