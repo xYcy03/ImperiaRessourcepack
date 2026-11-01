@@ -5,7 +5,7 @@
       "file": "minecraft:font/imperia.png",
       "ascent": 30,
       "height": 32,
-      "chars": ["\\uE000"]
+      "chars": ["\uE000"]
     }
   ]
 }
