@@ -1,7 +1,10 @@
 {
   "pack": {
-    "description": "Imperia tab banner",
-    "min_format": [84, 0],
+    "description": "Imperia SMP TAB Banner & Rank Icons",
+    "min_format": [
+      84,
+      0
+    ],
     "max_format": 84
   }
 }

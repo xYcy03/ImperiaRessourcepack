@@ -5,7 +5,18 @@
       "file": "minecraft:font/imperia.png",
       "ascent": 30,
       "height": 32,
-      "chars": ["\uE000"]
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ranks.png",
+      "ascent": 12,
+      "height": 14,
+      "chars": [
+        "\ue001\ue002\ue003\ue004\ue005\ue006\ue007\ue008\ue009\ue00a\ue00b\ue00c\ue00d\ue00e"
+      ]
     },
     {
       "type": "reference",
