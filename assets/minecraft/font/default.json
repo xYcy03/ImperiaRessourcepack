@@ -12,10 +12,19 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/ranks.png",
-      "ascent": 12,
-      "height": 14,
+      "ascent": 13,
+      "height": 16,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/scoreboard.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
       ]
     },
     {
