@@ -28,6 +28,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:font/systems.png",
+      "ascent": 13,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "reference",
       "id": "minecraft:include/space"
     },
