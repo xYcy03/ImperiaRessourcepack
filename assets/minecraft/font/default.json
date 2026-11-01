@@ -2,18 +2,36 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:font/banner.png",
-      "ascent": 22,
-      "height": 26,
+      "file": "minecraft:font/banner-im.png",
+      "ascent": 18,
+      "height": 21,
       "chars": [
-        ""
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/banner-per.png",
+      "ascent": 18,
+      "height": 21,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/banner-ia.png",
+      "ascent": 18,
+      "height": 21,
+      "chars": [
+        ""
       ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/ranks.png",
-      "ascent": 13,
-      "height": 16,
+      "ascent": 7,
+      "height": 8,
       "chars": [
         ""
       ]
