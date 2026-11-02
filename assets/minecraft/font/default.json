@@ -66,8 +66,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_dev.png",
-      "ascent": 8,
-      "height": 11,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
