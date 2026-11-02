@@ -138,8 +138,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_spieler.png",
-      "ascent": 8,
-      "height": 11,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -201,8 +201,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/ranks.png",
-      "ascent": 7,
-      "height": 8,
+      "ascent": 8,
+      "height": 11,
       "chars": [
         ""
       ]
@@ -338,6 +338,24 @@
     {
       "type": "reference",
       "id": "minecraft:include/unifont"
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/rank_builder.png",
+      "ascent": 8,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/rank_apex.png",
+      "ascent": 8,
+      "height": 11,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
