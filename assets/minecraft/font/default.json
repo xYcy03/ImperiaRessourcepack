@@ -12,8 +12,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_manager.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -21,8 +21,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_admin.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -39,8 +39,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_dev.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 11,
+      "height": 14,
       "chars": [
         ""
       ]
@@ -57,8 +57,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_helfer.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -66,8 +66,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_monarch.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -75,8 +75,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_peria.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -93,8 +93,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_support.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -192,8 +192,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_builder.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
