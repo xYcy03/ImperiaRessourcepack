@@ -4,7 +4,8 @@ Minecraft Java 26.1 resource pack for Imperia TAB, rank emblems, and SMP quest/s
 
 ## Glyph mapping
 
-- `U+E000`, `U+E00F`, `U+E010`: transparent Imperia TAB banner, segmented as `IM` / `PER` / `IA`
+- `U+E000`, `U+E00F`, `U+E010`: legacy segmented Imperia banner glyphs (retained for compatibility)
+- `U+E026`: full IMPERIA wordmark, scaled to match the former TAB and scoreboard banner footprint
 - `U+E001`–`U+E00E`: Owner, Manager, Developer, Admin, Moderator, Supporter, Builder, Helfer, Peria, Monarch, Titan, Apex, Guardian, Spieler rank emblems
 - `U+E011`–`U+E013`, `U+E019`–`U+E01D`: Money, Coins, Piñata, Level, Clan, Playtime, Claim, Player scoreboard icons
 - `U+E01E`–`U+E025`: MONEY, COINS, LEVEL, PINATA, CLAN, TIME, CLAIM, PLAYER bitmap scoreboard badges
@@ -19,3 +20,5 @@ The v1.11 scoreboard atlas contains compact transparent pixel icons. Money uses 
 The v1.12 scoreboard adds compact bitmap text badges with a shared amethyst frame and a distinct jewel-tone accent per category.
 
 The v1.13 scoreboard badges use cleaner 4x7 small-cap pixel lettering in soft gray, while each category keeps its distinct accent color.
+
+The v1.14 pack uses the new transparent IMPERIA wordmark in both TAB header and SunLight scoreboard title.

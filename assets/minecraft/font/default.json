@@ -127,6 +127,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:font/banner-imperia.png",
+      "ascent": 18,
+      "height": 21,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "reference",
       "id": "minecraft:include/space"
     },
