@@ -17,3 +17,5 @@ The v1.10 banner is about 20% smaller, the three word segments join more tightly
 The v1.11 scoreboard atlas contains compact transparent pixel icons. Money uses green, Coins a simple gold coin, and the piñata is a right-facing colorful llama.
 
 The v1.12 scoreboard adds compact bitmap text badges with a shared amethyst frame and a distinct jewel-tone accent per category.
+
+The v1.13 scoreboard badges use cleaner 4x7 small-cap pixel lettering in soft gray, while each category keeps its distinct accent color.
