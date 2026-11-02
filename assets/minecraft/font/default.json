@@ -111,8 +111,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/money.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -120,8 +120,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/coins.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -129,8 +129,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/level.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -138,8 +138,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/pinata.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -147,8 +147,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/clan.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -156,8 +156,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/time.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -165,8 +165,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/claim.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
@@ -174,8 +174,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/player.png",
-      "ascent": 16,
-      "height": 18,
+      "ascent": 7,
+      "height": 9,
       "chars": [
         ""
       ]
