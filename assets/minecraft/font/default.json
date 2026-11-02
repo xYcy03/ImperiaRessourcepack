@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rank_mod.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 10,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -22,7 +22,7 @@
       "type": "bitmap",
       "file": "minecraft:font/rank_admin.png",
       "ascent": 10,
-      "height": 15,
+      "height": 13,
       "chars": [
         ""
       ]
@@ -40,7 +40,7 @@
       "type": "bitmap",
       "file": "minecraft:font/rank_dev.png",
       "ascent": 10,
-      "height": 15,
+      "height": 13,
       "chars": [
         ""
       ]
