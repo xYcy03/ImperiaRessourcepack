@@ -26,3 +26,47 @@ The v1.13 scoreboard badges use cleaner 4x7 small-cap pixel lettering in soft gr
 The v1.14 pack uses the new transparent IMPERIA wordmark in both TAB header and SunLight scoreboard title.
 
 The v1.15 pack adds three navigation glyphs for Daily, Bank, and the command handbook, plus eight original purple-fantasy badge glyphs for selectable TAB/nametag badges.
+
+
+## Server RP glyphs (26.1.2)
+
+This pack is compatible with Minecraft Java 26.1.x (Paper server resource packs are client-side). Custom glyphs can be placed in TAB prefixes or menu item names using these characters:
+
+### Rank images
+
+| Glyph | Rank image |
+|---|---|
+| `\uE032` | Dev |
+| `\uE033` | Guardian |
+| `\uE034` | Helfer |
+| `\uE035` | Monarch |
+| `\uE036` | Peria |
+| `\uE037` | Spieler |
+| `\uE038` | Support |
+| `\uE039` | Titan |
+
+### Menu action glyphs
+
+| Glyph | Icon |
+|---|---|
+| `\uE03A` | Close (X) |
+| `\uE03B` | Back |
+| `\uE03C` | Next |
+| `\uE03D` | RTP |
+| `\uE03E` | Home |
+| `\uE03F` | Shop |
+| `\uE040` | Info |
+| `\uE041` | Confirm |
+
+Use the actual private-use characters (copy/paste the corresponding glyph from a character map or generate it in your config editor); the `\uE0xx` strings above document the codepoints. Menu glyphs only render icons. Click actions and inventory layouts must be configured by the server's menu plugin/Core.
+
+### GUI frame glyphs
+
+| Slots | Glyph |
+|---:|---|
+| 9 | `\uE050` |
+| 18 | `\uE051` |
+| 27 | `\uE052` |
+| 36 | `\uE053` |
+| 45 | `\uE054` |
+| 54 | `\uE055` |
