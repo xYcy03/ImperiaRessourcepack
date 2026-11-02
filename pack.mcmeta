@@ -2,9 +2,12 @@
   "pack": {
     "description": "Imperia SMP TAB and Scoreboard Logo, Rank, Badge, Quest & Cosmetic Icons",
     "min_format": [
-      84,
+      75,
       0
     ],
-    "max_format": 84
+    "max_format": [
+      84,
+      0
+    ]
   }
 }
