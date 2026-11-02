@@ -136,6 +136,24 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:font/navigation.png",
+      "ascent": 13,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badges.png",
+      "ascent": 13,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "reference",
       "id": "minecraft:include/space"
     },

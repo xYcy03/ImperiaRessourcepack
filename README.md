@@ -10,6 +10,8 @@ Minecraft Java 26.1 resource pack for Imperia TAB, rank emblems, and SMP quest/s
 - `U+E011`–`U+E013`, `U+E019`–`U+E01D`: Money, Coins, Piñata, Level, Clan, Playtime, Claim, Player scoreboard icons
 - `U+E01E`–`U+E025`: MONEY, COINS, LEVEL, PINATA, CLAN, TIME, CLAIM, PLAYER bitmap scoreboard badges
 - `U+E014`–`U+E018`: Questbook, Coinshop, Cosmetics, Companion/Plushie, Custom Enchants
+- `U+E027`–`U+E029`: Daily rewards, Bank overview, Command handbook
+- `U+E02A`–`U+E031`: Beta, Supporter, Discord, Valentine, Easter, Halloween, Winter, Custom badge
 
 The font definition includes Minecraft's vanilla fallback providers. The resource pack remains optional on the server.
 
@@ -22,3 +24,5 @@ The v1.12 scoreboard adds compact bitmap text badges with a shared amethyst fram
 The v1.13 scoreboard badges use cleaner 4x7 small-cap pixel lettering in soft gray, while each category keeps its distinct accent color.
 
 The v1.14 pack uses the new transparent IMPERIA wordmark in both TAB header and SunLight scoreboard title.
+
+The v1.15 pack adds three navigation glyphs for Daily, Bank, and the command handbook, plus eight original purple-fantasy badge glyphs for selectable TAB/nametag badges.
