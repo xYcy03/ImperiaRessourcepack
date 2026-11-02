@@ -110,15 +110,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/ranks.png",
-      "ascent": 8,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/scoreboard_labels/money.png",
       "ascent": 7,
       "height": 9,
