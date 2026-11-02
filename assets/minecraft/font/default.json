@@ -85,7 +85,7 @@
       "type": "bitmap",
       "file": "minecraft:font/rank_owner.png",
       "ascent": 9,
-      "height": 13,
+      "height": 8,
       "chars": [
         ""
       ]
